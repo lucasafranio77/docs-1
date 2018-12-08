@@ -5443,9 +5443,9 @@ gatsby-plugin-remove-serviceworker@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-remove-serviceworker/-/gatsby-plugin-remove-serviceworker-1.0.0.tgz#9fb433bc8bd766e14e1d3711c4ac6f051e1dff7c"
 
-gatsby-plugin-sharp@2.0.13:
-  version "2.0.13"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.0.13.tgz#37678879e118987841453ef2f1250a0760402646"
+gatsby-plugin-sharp@^2.0.15:
+  version "2.0.15"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.0.15.tgz#dc2ec6790ec544e05d600affddc29b5f2fe55375"
   dependencies:
     "@babel/runtime" "^7.0.0"
     async "^2.1.2"

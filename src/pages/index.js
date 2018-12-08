@@ -11,7 +11,7 @@ import { MetaData, getMetaImageUrls } from '../components/common/meta'
 
 const HomePage = ({ data, location }) => {
     // Add meta title and description for this page here to overwrite the site meta data as set in the config
-    const title = `Ghost Docs`
+    const title = `Infocorp Wiki`
     const description = `Get familiar with Ghost - the open source professional publishing platform.  Install guides, tutorials, API docs and FAQs.`
     const imageUrl = getMetaImageUrls()
 
